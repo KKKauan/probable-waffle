@@ -1,0 +1,128 @@
+﻿menu img {
+    max-width: 200px;
+    margin-top: 5px;
+    margin-left:-75px;
+}
+
+nav {
+    width: 100%;
+    background-color: black;
+    top: 0;
+    z-index: 100;
+    position: fixed;
+    display: flex;
+    font-weight: 900;
+    font-family: arial;
+    position: fixed;
+    justify-content: space-around;
+    position: fixed;
+    margin-left: -45px;
+    color: red;
+}
+
+body {
+    background-color: black;
+}
+
+.Ferramentas2 {
+    font-family: Impact;
+    font-size: 30px;
+    margin-top: 60px;
+    margin-left: 30px;
+    color: white;
+}
+
+.Escavadeira {
+    font-family: Arial;
+    font-size: 17px;
+    font-weight: 900;
+    margin-left: 330px;
+    color: white;
+}
+
+.Andaimes {
+    font-family: Arial;
+    font-size: 17px;
+    font-weight: 900;
+    margin-left: -270px;
+    color: white;
+}
+.Medidas {
+    color: white;
+    font-family: Arial;
+    font-weight: 900;
+    margin-left: 200px;
+}
+li#img2 {
+    margin-top: -497px;
+    margin-left: 600px;
+}
+.Medidas1x1 {
+    color: white;
+    font-family: Arial;
+    font-weight: 900;
+    margin-left: 200px;
+}
+
+.Betoneiras {
+    font-family: Arial;
+    font-size: 17px;
+    font-weight: 900;
+    margin-left:-570px;
+    margin-top: 70px;
+    color: white;
+}
+li#img3 {
+    margin-top: 10px;
+}
+.Capacidade400 {
+    color: white;
+    font-family: Arial;
+    font-weight: 900;
+    margin-left: 200px;
+}
+
+li#img4 {
+    margin-top: -479px;
+    margin-left: 600px;
+}
+.Capacidade120 {
+    font-family: Arial;
+    font-weight: 900;
+    margin-left: 200px;
+    color: white;
+}
+.Cortadoras {
+    font-family: Arial;
+    font-size: 17px;
+    font-weight: 900;
+    margin-left: -570px;
+    margin-top: 70px;
+    color: white;
+}
+.Geradores {
+    font-family: Arial;
+    font-size: 17px;
+    font-weight: 900;
+    margin-left: 30px;
+    margin-top: -45px;
+    color: white;
+}
+.Rompedores {
+    font-family: Arial;
+    font-size: 17px;
+    font-weight: 900;
+    margin-top: 70px;
+    color: white;
+}
+
+li#img0 {
+    margin-left: 300px;
+}
+
+li#img0:hover{
+    background-image: url()
+}
+ul img:hover {
+    background-color:aliceblue;
+}
